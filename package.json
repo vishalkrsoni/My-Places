@@ -1,0 +1,26 @@
+{
+  "name": "my-places",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalkrsoni/My-Places.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalkrsoni/My-Places/issues"
+  },
+  "homepage": "https://github.com/vishalkrsoni/My-Places#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
